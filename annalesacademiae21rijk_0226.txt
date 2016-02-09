@@ -1,0 +1,51 @@
+ιι fn. r{.cos‘1·50R1>ENs
+
+corpora vel plana. Metliodus illa, quamvis prima fronte et ex solis verbis parum
+Geometrica videatur, cuni nec corpora in plana nec plana in lineas dividi possint,
+bene tamen intellecta, nihil aliud continet, nisi methodum Exliaustionis Veterum ‚palio
+quodam simpliciori modo propositam (1). Dividi illa potest in duas partes, quarum
+primae objectum est comparatio figurarum ope aequalitatis vel 'rationis coiistaiiti5‚
+quae locum habet inter figurarum illarum elementa, quam illustrat ex ratione trian-
+gulorum, parallelogrammorum, prismatum etc. ejusdem baseos et altitudinis. Prima
+haec Methodi Cavalerianae pars ⁴ad hanc generalem propositionem reduci potest: onmes
+figurae, quarum elementa crescunt νεΙ decrescunt simili modo a bari usque ad verti-
+cem, eandem rationem habent ad figuram uniformem ejusdem baseos ει altitudinis.
+
+Altera Geometriae indivisibilium pars consistit in determinanda ratione summae in-
+finitarum harum linearum vel planorum crescentium vel decrescentium, cum summa
+similis numeri elementorum liomogeneorum, sed omnium inter se aequalium. Cavalcm·
+tamen methodum, propter singularem propositionis modum , aliquomodo obscuram at·
+qiie intellectu difficilem esse non iniuria fortasse observarunt Viri Docti (π ).
+
+Primam, quam diximus, partem illustremus duobus exemplis de Quadratum Para-
+boiae (lig. 7).
+
+Sit ABC Pyramis‚ DEF spatium Parabolicum externum, constans arcu Parabolae
+DF, tangenti DE et linea FE parallela axi; Jam utraque figura, scilicet pyramis ABC
+
+et spatium DEF similiter decrescunt3 elementum enim Pyramidis fg crescit uti quadi-a- -
+
+tum distantiae ab lioc elemento usque ad verticem , et in spatio DEF elementum IH crescit
+uti quadratum lineae DH (est enim ΒΕ2 = DH2 :- ΒΕ : ffl); jam vero cum Pyra·
+mis sit tertia pars Prismatis ejusdem baseos et altitudinis, sequitur et spatium exter-
+num Parabolicum DEF, tertiam partem esse rectanguli DEFK ‚ adeoque spatium DlFK
+aequale esse duabus tertiis partibus rectanguli DEFK (3).
+
+In sequenti exemplo Parabola cum sphaera comparatur (fig. 8). Sit EHlF Parabo-
+1³3 Ni ejus axis; EF ordinata3 ducatur linea OH parallela axi3 erit.
+
+GH. izi.- — EG >< GF· ΕΚ >< KF— ···· EG Χ GF: KF2.
+
+Si jam EMLFNOE Sit Sphaera, cujus diameter est ordinata parabolae, haec pro-
+prietas etiam locum habebit; est enim: (ΞΜ2 : KL² = EG Χ GF ἕ ῙΧἚΩ, et ‘⁰¹¹¹
+circuli OM et NL sint in ratione quadratorum radiorum, erit: c·
+
+ll'c.
+
+(ι) Vid. de hoc Mam. Tom.11. pag. ³3 et 39.
+
+(2) De hac cavalaria· Geomeni- indivisibilium vid. Mane. rom. ii. prii- ³6-42i Klri‘ee'. ¹¹³ voce
+Cui-alurl't Muhode dei· unrhni'lbaran et V’mli't Algcbra Cap, 74. Opp. 'l‘ouh ll. 1³3- 3¹¹ ΕΙ SUN-
+
+(3) Vid. alant, Tom- ll. paq. noin C.
+

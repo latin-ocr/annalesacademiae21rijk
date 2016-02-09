@@ -1,0 +1,53 @@
+COMMENTATIO AD QUAESTIONEM MATHEMATICAM. 29
+
+Ex comparatione formularum pro area Ellipseos et circuli patet earum areas eandem
+
+rationem sequi quarn axes prioris, id est:
+Ellipsis τ circulum = a t b
+
+Quadratura Ellipseos igitur pendet a Quadratum circuli, adeoque, si circulus notus
+esset ‚ Ellipsin quoque notam haberemus. Si abscissae a centro sumantur, aequatio
+Ellipseos erit:
+b2
+ἴ2
+Haec formula etiam in seriem convertenda est3 est autem:
+
+b
+
+α’ = (α’-κ’) et y = {ww—ff> = a—<a2—x2fi
+
+ 
+
+(aa-22), Ξ.- a— ᾖ -— 8‘a‘3 - 1—33 — etc.; adeoque
+2 .
+fidx=s}.dx(a —fflffizz- (a—g—I‘ — 8³7⁴ss - -ι-ἔὲῖ -etc >dv
+— b ,23 ,τε 2⁷
+—a-(ax—ffi—W—ffl—etC)
+Si ponatur x = a = semiaxi majori, prodibit quadrans Ellipseos‚ cujus area igi-
+tur est
+b 2 a3 ας a?
+Ξῖ(α -ὧ--ξῇ-Ῑ-ἧ-αῗ-Εἴΰ)
+b α2 (2² ιθ
+Ξῖ(α”-·-6-··- 4-0 “· 112 -etc.)
+
+=ba(1 -·—¹-- ᾗ - -1-{4 -etc.)(1)
+
+ς. 3·
+Dc ,Quadratum Hyperbolae.
+
+Venimus nunc ad ultimam Curvam ex sectionibus Conicis, Hyperbolam. Oritur
+haec ex Coni sectione, si scilicet Canus ita secetur a plano, ut alterum latus pro-
+
+ductum etiam secet.
+Vulgaris Hyperbolae‚ quae respectu Hyperbolarum Superiorum Ordinum etiam Ap·-
+
+pollom'ca appellatur, Quadraturam primum dedisse videtur eximius Geometra Scotus
+Gregory ‚ in scripto dc ,Quadratum circuli A. 1648. Vixit ille tempore Nemoni, sed
+heu! in flore aetatis morte fuit abreptus (2). u
+
+D
+
+(Ι) Conf. Hermen, loc. supra cit. mg· ¹⁴7 eg 148,
+
+(α) Cous. munna!- Ton. 11. ρης. 37⁶, D
+

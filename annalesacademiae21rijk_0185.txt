@@ -1,0 +1,45 @@
+COMMENTATIO An QUAESTIONEM PHYSICAM. ⁸9
+
+eadem ratione augebitur, ita ut, si ψ designet latitudinem , pro quovis alio gradu quam
+45²⁸, fiet secundum Biotium
+
+= 18334‚46(1-l- 0,0028371 Cos. αφ)
+sed accuratius secundum recentiora experimenta
+
+Ξ 19334‚46 (1 ,4,- 0‚0027601 Cos. εψ) (1)
+quam correctionem satis sit hoc loco indicasse3 nam quum pendet a legibus penduli,
+longior sim et nimis a proposito aberrem, si explicare velim, quomodo ad eam per-
+ventum sit. Dimenda est haec correctio pro omnibus regionibus inter aequatorem et
+450 latit.‚ addenda autem pro ceteris regionibus magis versus polum sitis (α).
+
+3. Duae altae corrrctiones oriuntur e diminutione gravitatis directione vei-ticam Gra-
+vitas <nim decrescit, quo altius supra terram adscendimus; gravitate amem diminuentc
+simul diminuetur pondus columnae mercurialis: igitur pondus columnae, quae in su-
+periore loco aequilibrium facit pressioni aeris, erit minus ‚ quam fuisset idem in loco
+inferiore, atque ut ad hoe reducatur, observata altitudo barometri multiplicanda est
+cum ratione inter gravitatem in utraque statione3 gravitas autem inverse proportionalis
+est quadrato distantiae a centro terrae3 sit igitur a disstantia loci inferioris a centro
+
+terrae, a —l- z loci superioris, et h altitudo observata in hoc loco3 tunc erit re:¹ ueta
+
+haec altitudo
+α2 , z -ι
+
+in formula igitur pro Log. gerit substituendum
+h' - · ἐ’ (¹ ἦ )2
+Log. —-——=- = Log. -—--
+h ( 1 -l- Ξ· )“ ² h
+
+= Log. j} -ι- 2L0g. (ι 4³2)
+
+ubi propter exiguitatem altitudinis z ad disstantiam a, non multum a veritate aberrabi-
+tur‚ si pro nac disstanua sumitur medius terrae ramus, unde erit igitur a = 6366198
+metris (3).
+4. Densitas columnae aeteae inter utramque stationem contentae pendet a pressione
+acris comprimentis: sed hic, diminuta gravitate, minus premet3 igitur densitas quoque
+mu-
+(¹) vid. Tibing. ΒΙίιι Β. l. St. 2. ι, 226.
+
+(a) sons. ιιιυτ, ΊιιΗ. Bar. p. 7; ιικιιικᾼυ, μ ΧΧΧΠ et seq.
+(ὃ) conf· 1101, 'kuflan p‚15-19‚ D 3
+

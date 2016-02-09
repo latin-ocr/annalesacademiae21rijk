@@ -1,0 +1,56 @@
+COMMENTATIO An QUAESTIONEM MATHEMATICAM. 21
+
+dederunt Philosophi Galli Fermatius et Robcrvallius (1), et inter quas celebris ea
+est, quae vocatur parabola Cubicalis secunda, quus aequatio est y³ = px2, et
+quae est Evoluta Parabolae simplicis.
+
+Parabola simplex sive Appollonica est, quae oritur ex Coni sectione , si scilicet
+*Canus a plano quodam ita secetur, ut parallelo illud sit uni laterum, vel parallelo:
+plano cuicunque Conum tangenti.
+
+Hujus aequatio est J²= px, in qua y ordinatas, x abscissas et p parametrum
+significant.
+
+Cum sit y2 εμπ, est y- ·- ÷Vpx =‡p{x{; unde ya'x- - ffb& dx, etfidae =
+
+1 ι
+4·“ ph} ἄασε-1- p—sxa ÷— ÷ C: ‡}p {xz -1- C, et substituto y: παπ, invenimus
+
+aream Parabolae = 4³2zy 4- C.
+
+Sic etiam operatiov institui potest:
+w? ‚ ydx Ξ ’ἑιν2ἅγ
+
+ 
+
+ 
+
+Quoniam y² = px , erit differentiando aydy = pdx, et dx =
+
+etsydx=²3³3÷c= gxy-fl-c.
+
+Hinc igitur patet·
+
+10. hunc valorem pertinere ad singulos ramos curvae, cum occurrant signa 4 et -.
+
+2⁰ Parabolam absolute quadrabilem esse, id est algebrai‘ce et definite notum esse
+spatium sive aream contentam sub arcu curvae, axi abscissarum et ordinata, idque
+spatium duas tertias partes continere rectanguli ex abscissa et ordinata.
+
+Valori autem pro area curvae adjicitur quan-titas constans, litera C notata3 hujtis
+rei causa est, quod differentiationi obnoxiae tantum sunt quantitates variabiles. Con-
+stans ergo quantitas si differentianda est, eius differentiaze aeq-nale est nihilo, qua·
+propter quantitati differentiatae, si integretur, adjungenda est quantitas constans,
+tum scire nequeamus, utrum functio primitiva tantum quantitatem variabilem continue·
+tit, nec ne. Quod autem ad curvam nostram adtinet, notum est, si abscissae eva·
+inescant, evanescere simul quoque ordinatas , quod etiam patet si in aequatione 92 = px
+ponatur x = o. Unde sequitur, si area Parabolica initium capiat a puncto, ubi
+coordinatae simul evanescunt, non necesse esse constantem addere, et tunc spatium
+
+quaesitum esse aream ΛΡΜ. (vid. fig. io.)
+Si
+
+’ (¹) effis- Mfl'u ΤΟΜ· Π· με. 42 et ueqqta Varia Opera Mai-hamarim Π. Pam· dc termut·‚ Sannum Tc-
+¹⁰¹¹¹¹32 '50¹⁰‘st Ι679- ΡΙΕ- 44 et seqq. et Rubervalm Traitd dus Indivu'u‘blos in cius Ourragas Mamaematiquec,
+ιι naye ¹⁷³¹· pu. 2¹4 ct seqq.
+

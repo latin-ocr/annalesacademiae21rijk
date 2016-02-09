@@ -1,0 +1,51 @@
+28 ,G.H.COSTJORDENS
+
+s· 4-
+De ,Quadratum Ellipscos.
+
+Quid Veteres circa Quadraturam Ellipseos praestiterint, supra vidimus cum inventa
+Archimedis de nostro Problemate exposuimus3 demonstraverat scilicet ille, circulum se
+habere ad Eliipsin uti eJus axis major ad minorem. Has autem Curvas, circulum sci·
+licet et Ellipsin plura communia habere, et'arcto nexu inter se junctas esse, accurata
+utriusque proprietatum investigatio facile docebit. Quo minor enim in hac Curva
+fit distantia focorum, eo magis ejus forma similis fit circulo, donec tandem, cum
+haec puncta in unum coierint, Ellipsis plane in circulum abit. Cum itaque harum
+Cui-varum vinculum tam validum sit, mirum certe non est, etiam earum Quadraturam
+sive areas arcte cohaerere3 quod verum esse ex infra subjunctis patebit.
+
+Jam ex aequatione Ellipseos quaeramus ejus Quadraturam‚ quamvis haec, ut vide-
+bimus, absolute inveniri nequeat.
+
+Ponatur idcirco axis major = aa, axis minor = 2b, abscissa a vertice su·
+
+b2
+
+menda = x, et huc pertinens ordinata = y, erit y²= a—2— (nax — x²); adeoque
+y- ... κιβζααπ - κε) :2 §Max -— xfi, unde ydae- - ‘⁷33an -ι ³:²31 , adeoque
+
+,fid-²· :sliffimax - μγ.
+
+Hujus Integralis ratio eadem est quae Integralis circuli; utrumque euim, cum abso-
+lute inveniri non possit, pet serlem exhibendum est. Est autem.
+
+βάκ =s}.dx <m - xv} =s}.ax.2÷ (αα - 10}
+
+et secundum seriem Neweom'
+Β xa 5χῆ
+
+‘- ηψπ 16a1l2a '- W - {ET-W] '- ⁶³⁶5 “⁸⁰
+
+ 
+
+a
+= Ξ(τίγ2α-ἷῇα-ἧῗ7ἷᾶ-Ῑὲῖῇ-ἶὸἶῇξξιῇ- etc ) dx
+
+κζ a} §.1²1¹
+
+a
+= b‘<}²'}V²a-'53321—56a1l—22-2—‘5—‘850'— Vm δόμαὸι-Ι-ὗ-εκ.)
+In hac serie si ponatur x πα, prodibit quadrans Ellipseos, et si multiplicetur per
+
+4, invenietur tota area.
+Ex
+

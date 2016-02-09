@@ -1,0 +1,54 @@
+COMMENTATIO ΑΒ QUAESTIONEM MATHEMATICAM. 55·
+
+Haec est formula differentialis superficiei circumvolutione curvae genitae, in hac ex
+
+Cui-varum aequatione substituendi sunt valores pro y, dy et dx, quo invenietur super-
+ficies quaesita.
+His expositis, exempla addamus, quibus dicta clariora fiant.
+
+§- 3·
+De Superficic Sphaerica.
+
+Aequatio circuli, posito diametro = αα et abscissis sumtis a] vertice, est ,γ’ =
+2ax — 3²3 ergo differentiand0=
+
+2ydy = 2adx — 2xdx
+μό] = adx —- xdx
+
+ 
+
+ 
+
+ 
+
+= (a—x) dx. Ponatur ff} = p, erit
+ds = 2yndx1l0÷p2>3 ob ydy = (a—dex3 eritz·
+’ d—y — — a- ,τ
+. dx ““ “““ y
+2² = (q-ay—xff et (1 42⁰²) = (a-y‘xy -Ι- 1 = s—a-ZFH-y’ .- ⁶⁹-203543’45'
+= affl2- mx 4yi2÷2ax—x2 = ἕξ, adeoque VO †p2) :3-
+
+Porro ds = eyaedx Vass †p² J
+
+= nyndx 3-
+Qandx ¹
+
+et S = :fian-dx
+= ctam:
+
+Haec aequatio suppeditat superficiem portionis Sphaerae pro abscissa sc, si scincet
+
+abscissae simul cum superficie initium capiant; in illa si ponatur x·- -. Μ, erit pra
+tota superficie Sphaerica:
+
+S = 4a2vr
+Similiter pro alia abscissa κ’, erit:
+
+δ’ = παντί
+adeoque substractione erit pro Zona superne iei Sphaericae
+
+S‘ — S = 2a7rx' — 2—‘a7rx -. Εακζί -—⁸)
+quae omnia ex Geometria elementari nota sunt.
+
+54-
+

@@ -1,0 +1,45 @@
+16 G. H.COSTJORDENS
+
+superficies solidorum invenit, regulamque hac de re tradidit, vulgatam sub nomine
+chulac Guldim'. Methodum suam exposuit in scripto Centro-Baryca 1635 — 1642.
+In duobus prioribus libris determinare studet centrum gravitatis in arcubus circuli,
+sectoribus et segmentis tam circularibus quam Eilipticis. Praecipuum tamen quod in
+scriptis suis prodidit, pertinet ad inveniendas figuras ex rotatione ortas. Regulam se-
+quentem hac de revtradidit3 quaecunque figura, orta ex revolutione lineae vel super·
+ficiet* circa axin immobilem, aequalis est producto ex quantitate generatrices et via,
+quam percurrit centrum gravitatis. Regulam hanc non stricte, sed tantum per indu·
+ctionem probavit; stricte Geometrice illam quidem probare tentavit, exacte vero non
+perfecitg, demonstrationes huJ'us regulae varii deinde varias proposuerunt (ι). Guldi·
+nus tamen principia suae Methodi Geometrae Graeco Pappa quodammodo debere vide-
+tur, saltem ita judicat Cel. Montucla (2). Cum Geometra sui temporis Cavalerio,
+de quo praecedenti capite vidimus, anno 1740 de Regula sua contentionem aliquam
+habuit, qua tamen Cavalerius coactus fuit methodum ipsius magis dilucide exponere,
+eamque restringere, ad quae proprie pertinebat. Illustrationis gratia jam exemplum
+proponemus.
+
+Circulus generatur revolutione radii circa centrum tanquam axin immobilem. Cen-
+trum gravitatis radii situm est in media eJ'us parte. Via igitur huius centri est cir-
+culus descriptus cum dimidia parte radii. Ergo productum ex ultimo hoc circulo et
+radio suppeditat aream circuli primi descripti, quod etiam cum principiis elementari-
+bus convenit.
+
+Sit enim (fig. 9) ABCD circulus , generatus ex radio AE circa centrum E volvente;
+centrum gravitatis radii AE est in F, media ejus parte. Via igitur, quam hoc punctum
+percurrit, est circulus FCH13 unde area circuli ABCD est = circ. FGHI Χ A& quod
+verum esse ex subjunctis patet3 est enim, uti notum est, area circuli Asscl) =
+triangulo ex devoluta peripheria et radio ,τ- rectangulo ex peripheria devoluta et semi·
+
+radi03 jam est:
+circumf. ABCD : circumf. FGHI = ΑΕ 2 Fr:
+
+et quoniam ΑΕ : FE τ.. 2 ι 1,
+ξ circumf. ABCD z circumf. FGHI, adeoque
+
+*ars-‘² circuli ABCD z [Ξ] cx peripheria devoluta et semu-auio
+Ξ [3 ex semiperipheria devoluta et radio
+
+:z [Σ] ex circumf. FGffl et radio AB. Quam
+
+(ι) vid. Maur, Tom- 11. pag· 33 et mg. 98 et 99· not· B.
+(a) 1‘x verbis Puppi, quae resen Tom. Ι. pag. ⁵⁹9· vid. et ina apud L'llm'llu'er, op. cfr. cap. 14 in fine-
+

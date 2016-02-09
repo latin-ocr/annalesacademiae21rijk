@@ -1,0 +1,46 @@
+COMMENTA'mo nn QUAESTIONEM MATHEMATIQAM. ιι
+
+tineae ec parallelae EC, quae( Elllpsin eecabunt in punctisd, -unde orientur quadri·
+laterae code, cddc, etc. in Eliip'si, et similes etiarn in circulo. Est jam ΟΕ : CD z
+ce ε cd, et quadrilaterae utrique figurae inscriptae rationem habent uti ΟΕ et CD.
+Eandem quoque rationem liabent triangula Ace et Acd, Bao et Bcd, adeoque polygoni in
+utraque figura se habent uti ΟΕ z Οὓς jam vem haec ratio eadem manet, quam magnus
+sit numerus quadrilaterarum inscriptarum ‚ et cum polygoni, quo plura latera sumantur,
+eo minus ab ipsis curvis, quibus inscripti sunt, differunt, haec ratio etiam valere
+debet de limitibus sive de ipsis curvis, unde patet, aream circuli descripti super axi
+majori Ellipseos, se habere ad aream Eliipseos uti hujus axis maior ad minorem (1).
+
+ 
+
+Δ Transeamus nunc ad illa, quae Archimedes nobis reliquit de Quadratum Pambolae.
+
+Ad illam, quae praecipue sagacitatis eJus mirum praebet documentum, duplici modo
+pervenit, altero Statim-intellectuali, ut ita dicam, sive Geometrico-Statico, altero
+pure Geometrico. De utroque videamus.
+⁴ Quod ad primum adtinet, sit BAC 'Paraboia (lig. 5); ejus axis AD, cui perpendi-
+culariter instat 1303 dividatur linea BD pro lubitu in aliquot partes aequales BE ‚ EF ,
+etc-3 per puncta illa ducantur perpendiculares BP, Ec, Ff‚ Gg, etc.; quae Parabo-
+lam secabunt in punctis M, N, Ο, etc. Ex C per haec puncta ducantur lineae CM,
+CN, CO, etc.‚ quae perpendiculares BP, Ee, Ff, etc. in punctis H, Ι, Κ, etc. se-
+cabunt, unde oriuntur? quadrilaterae ΕΗ, FI, GK, etc.; et in ultimo puncto divisio-
+nis triangulum CXZ, cujus latus CX tangens ductum est ad' Parabolam; linea XZ
+secatur quidem in punctis Y et X, sed quo magis punctum C appropinquat, eo mi·
+nor fit linea iix, usque dum tandem, cum ad Ο pervenerit, abit in illud.
+
+Dictae quadrilaterae ΕΗ, ΕΙ, GK, etc. nominantur circumscriptae; Em, Fu, Go,
+etc. vero vocantur inscriptae, quibus adjungitur trangulum ZC Y.
+
+Jam ope Statices demonstrat Archimedes:
+
+10. Summam omnium quadrilaterarum circumscriptarum cum triangulo ZCX majo·
+tem esse tertia parte trianguli CBP.
+
+20. Summam omnium quadrilaterarum inscriptarum simul curn triangulo CZY mino-
+·oem esse tertia parte ejusdem trianguli BCP.
+
+Fingamus scilicet Chordam BC adiunctam esse vecti, cujus fulcrum sit in Β, ita ut
+pars
+
+(ι) vid, merget tn voce Exhausrim-Merhode, pag, 156 et ¹⁵7· er Flor>n‚ Iloogern Merekuudt, 1. Boek ς. 203.
+Β 2
+

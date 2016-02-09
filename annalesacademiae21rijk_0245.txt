@@ -1,0 +1,67 @@
+COMMENTATIO AD QUAESTIONEM MATHEMATICAM. 33
+
+Porro si producatur DE ad M et ducatur perpendicularis AM, simili ratione spa-
+tium Hyperbolicum AMEHA inveniri potest, uti et segmentum AEHA inscribendis
+triangulis.
+
+Ponat-ur jam AB = CB = 1, et CD : CB = 2 τ 1. Ex proprietate Hyperbolae
+ad asymptotos relatae, quod seilicet ordinatae sint in ratione inversa abscissarum in
+asymptoto sumtarum (1), id est CD ε CB = AB ε ED, valores rectangulorum inve.
+niuntur.
+
+1⁰. Quoniam enim CD τ CB = 2 ε 1, est ED = {AB =
+= DB >< DE = 1-¹—.
+20. Quoniam cd} CB = 3 ι 2, erit AB = HG = 3 : α, adeoque Hc- = ἒ et
+
+HL=HG-GL=‡,ett·.-.1KHLF=FL><LH=L
+
+¹01⁵*
+
+‚ adeoque 1: BDEF
+
+6 304*
+3 3⁰· Quoniam BG = Ξ, erit BR=K⁰‚={‘²¹³ quia CR:CB :Assznk =5: 43
+nR= }AB=}; no=nR—Rn=·1-²55etnm=BR=}; mmn0K=nm><no==
+
+,Ξ >< ‘13⁸5 = ἐρῶ et sic in ceteris.
+Hinc jam oriuntur hae series:
+Spat. ABDEHA = ffi-f- 3434 5454. ᾗῇ. §ff-10 ÷etc·
+1
+
+spat. AMEHA = {1ss3 -Ι- 433 4. δὴ ÷ ἡὴ. lom
+
+ 
+
+-1- etc.
+1
+
+spat· AHEA = 2.3.4 Ἰ- 4.15.6 ’ὶ- 6.17.8 Ἰ- 8.9I.10 ·†· etc.
+
+Duae series ultimae simili modo facile inveniri possunt et quidem illa pro spatio
+AEHA inscribendis triangulis, uti supra jam diximus.
+
+Hae igitur sunt Brounckm· series. Quod ad Mercatorem adtinet, ille, posito in in·
+scripto parallelogrammo AM (fig. 14), ΑΡ = 1, et ΑΡ : AR = ι : d, sumto R
+ultra P, in Opere suo Logarithmotechnia prop. 17 invenit:
+
+>Spatium PMSR τ- d - ὲιίἳ -1- ᾗαῖ3 —· μ’* -Ι- ff - etc.
+
+Sumto autem R citra P, iisdemque positis, wallisius invenerat:
+
+Spatium PMSR = d -Ι- {7st -Ι- {cl-³ -1- ὲᾶ4 ÷ etc. (α)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ut
+(ι) vid. Flarr'ju 11. M. 1 Boek ΙΙΙ Hoosdst. Prop. 22· κεν. s.
+(a) ef. Wallr'tim Opp. Tom. ΙΙ. pag. 33⁶ et seq. ct 'som. 1. pag. 916 et seqq. conf. porro de Bmmckm'
+“nebus Mamuda, Tom. 11. pag· 2⁵6 e! seqq et Kljigel in rou Bsounckersclm Reihen.
+
+E
+

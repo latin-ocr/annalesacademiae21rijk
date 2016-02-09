@@ -1,0 +1,63 @@
+44 G.H.cosTJORDENS‘
+
+curva refertur ad aliquem focum, ita ut ordinatae sint radii vectores ex uno puncto
+tamquam polo exeuntes, abscissae autem computentur angulis vel arcubus, quos lii
+radii vectores comprehendunt.
+
+Hic autem casu53 dum et aliis curvis applicari possit, praecipue tamen convenit
+illis, quae ex gyrationibus sive circumvolutionibus generantur, veluti circulus, spira-
+les etc. Pro hac igitur relatione ad locum aliquem formulam quadrandi quaeramus.
+
+Sit SMM' (fig. 20) curva quaedam3 ordinatae ex polo F ductae ΡΜ, FM‘ etc.
+Patet differentiale spatii quaesiti SFM non uti ante esse trapezium curvilineum, verum
+sectorem aliquem MFM'. Cum radiis vectoribus ΡΜ, FM' ducantur arcus Mm et
+M'm‘3 apparet differentiale MFM‘ comprehensum esse inter sectores circulares MFm
+et M'Fm', ultimamque rationem MFM‘ et MFm esse unitatem. Sit arcus SM = x,
+ejusque radius SF = FX = FX' = r3 ponatur radius vector = z. Cum dictorum
+sectorum limes sit unitas, et sit MFm : XFX‘ = z2 ε r2‚ sequitur etiarn limitem
+sectorum MFM‘ et XFX' esse uti 2² :r23 pro sectore, autem XFX‘ substitui petest
+
+ 
+
+ 
+
+ 
+
+7². dx .Arc. ΧΧ’ . . ’
+2 κ ; est enim = 2 3 arcus XX' autem (posito radio AF = ι) est =
+dx 72. dx
+
+ 
+
+-Ξ 5 unde sector XFX'- -· 5 si nunc pro MFM' ponatur ds, facile ex ultIma pro-
+
+portione concludetur. ·
+
+1f7{=“}⁸,ve1ds=fflets=sffflcx)
+
+Hanc explicationem exemplis quibusdam illustrare conabimur et initium quidem au-
+memus a lineis spiralibus.
+
+S· 8.
+
+De Quadratum Spiralium.
+
+Lineae spirales, quae generantur continua gyratione circa punctum aliquod immobi-
+le, ita ut arcus eo magis diver-gant quo plures fiant gyrationes‚ comprehendi possunt
+aub hac generali aequatione z = aff, in qua x arcum, z radium vectorem significant.
+Quoniam autem z z aff, est z2 = a²x2⁸3 si itaque ut supra differentiale spatii
+quaesiti ponamus = ds, erit:
+
+ds = Q — ‘'²2²2'ae et s :sffff = {12²ssss 7}- c
+
+ 
+
+ 
+
+ 
+
+Con·
+
+(ι) vm. L'Jluillu'er op. σὺ. cap. ιο. ς. ¹0⁴· et La cror‘x No. 11¹3 quo modo aequatio potul: deth-enn- ex
+mn pto (οόῐάἰηιιίι retrusum, vid. v· g. apud Schrader Verbandclu‘rrg supra cle. 1 Afd. 4 Ηοοῐάςῑ. 5. [5.
+

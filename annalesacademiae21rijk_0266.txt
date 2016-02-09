@@ -1,0 +1,59 @@
+5⁴ G. H.COST10RDBNS
+
+§- 2.
+
+Explicatio Problematis.
+
+Ut itaque hoc fiat, sit AMM‘ (fig. Ie) curva , quae circa axin AX' rotata, super-
+ficiem curvam generat. Per M et M' ducantur lineae rectae Mm et M'n parallelae
+axi, et arcui MM‘ aequales,‘quarum linearum rotatione curvae Cylindricae orientur.
+Quoniam superficies Cylindricae ab his rectis genitae sunt in ratione ordinatarum MP
+et M‘P', ratio aequalitatis limes est rationis harum superficierum, adeoque eo magis
+haec ratio aequalitatis limes est rationis alterutrius harum superficierum ad superficiem
+rotatione περς MM‘ genitam, quoniam hae minus differunt, quam superficies cylin-
+dricae.
+
+Ponatur arcus MM' = ΔΖ, superficies vero ab eo genita = AS; ΜΡ = y, Ap = x.
+Quoniam, uti diximus, ratio aequalitatis limes est superficiei ab arcu MM' genitae ad
+superficiem Cylindricam, erit:
+
+lim. (AS τ zn.yAz) = 1: 1.
+Superficies notatione chordae ‘et rectae Mm genitae, sunt uti V( Aff43y2)ffl
+
+2
+⁰ yAz. Porro lim. (V(Ax2†Ay²) ε Aa) = 1 ε 1
+
+um.(32—“}‘³—y=y)=1=x
+
+ergo run- (ww ÷ ΜΨ) ³2
+
+lim. (yAz ε AS) = 1 ι 2ae
+2y4—A7
+
+Ay τ yAz) = 1 ε 13 vidimus autem esse
+
+ 
+
+itaque lim. (V(Ax2† Af)
+
+ 
+
+ι AS) = 1 ε απ, et recedendo a limitibus
+
+V<d22÷a12> ⁹³2*
+
+unde ds = eaeV(d.t2·{-dy2) ²9 ἓξὲξ]
+= 22·xxs(dx2† 1112)
+et S = s..›=ae1s(d2²†dy2›
+
+=f22⁷rdaeV(1÷{}{{) (1)-
+
+(ι) Vi). L’llvillier, Cap. ¹3. §.1195 La croix, No. αμς Kliigel, verex Camplaenauim, οι C! S. S. un
+dn 113² ., i'crh. cuz, mg. 3⁴ e< sqq·
+
+dyzds=1=mr
+
+ 
+
+Haec
+

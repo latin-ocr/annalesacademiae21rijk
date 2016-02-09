@@ -1,0 +1,49 @@
+COMMENTATxO AD QUAEST10NEM ΜᾹΤΙΙΕΜΑΤΙΟΑΜ. 47
+§- 4.
+Spiralt's Logarithmica.
+
+Si per punctum M (fig. επ.) ducantur lineae aliquot MA, ΜΒ, MC ete.⁹ omnes
+aequales angulos comprehendentes, lineae vero ipsae MA, ΜΒ, MC etc. sic suman-
+tur, ut proportionem Geometricam constituant, id est ita ut sit MA ι ΜΒ = ΜΒ 2 MC
+z: MC : MD = etc.‚ linea quae transit per · puncta A, B, C etc. vocatur Spiralis
+
+Logarithmica.
+Spin-alis haec, de qua primum cogitavit Garmias (1), aequationem habet x =
+. . . . . elz κακίω zdz
+Log. z, uti facile ex ejus generatione apparet3 ltaque dx = -z- et ds = —2— = ῖ-
+et S = ff? = {ff (α). Spatium ergo Logarithmicae Spu-alifi aequale est quat·
+
+tae parti quadrati radii vectem, sive posito FM z z,
+et arcu FEDCBA . . . . Μ -- x, erit
+spatium MFEDCBA . . . . Μ = ff,
+
+adeoque si sumatur ME = z', 4¹2
+
+spatium MEDCBA . . . . M = ἕῖ, et proinde
+sector EMF :span MFEDcssA. . ..M -spat. MEDcssA . . . . M=i² -32=3(z2-z¹3)
+
+sector igitur Logarithmicae Spiralis, qui continetur inter duos radios vgfctores, aequa·
+
+lis est quartae parti differentiae quadratorum illorum radiorum vectorum.
+
+S· 5-
+Spiralis Hyperbolica.
+
+Sit MN (fig. 23.) linea recta, et ex M centro ducantur arcus circuiares Ae,
+BD, NE inter se aequales, linea quae per puncta C, D, E etc. transit vocatur
+Spiralis Hyper-bolico.
+
+Ejus aequatio est z = ᾗ igitur 2² = a: = a2x—2; z2dx = a2x-2dx et
+
+ 
+
+ 
+
+x x2
+[Μ =s⁰²²‘²—‘²³⁵ — ⁰21¹ - - 5 ÷ c (ε)
+2 2 — 2 εκ ⁰
+S. 6.
+(r) Via. mansueta, Tem. ir· p. 45. (2) Cf. La Crolx, No. ¹3⁴·
+
+(8) Cf· La Croix, No· ²34·
+

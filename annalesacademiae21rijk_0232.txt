@@ -1,0 +1,52 @@
+ιο ''.G· H. C ,0 S T Jiok‘pssuN S 'i
+
+inde trapezium cui-vilineum MPF'M‘, quod semper continetur inter dicta rectanguia„
+et quod constituit augmentum, quod accipit segmentum AMP, quando abscissa ΑΡ
+augetur quantitate PP', sensim sensimque ad aequalitatem rectanguli PP'mM appropin-
+
+,ΡΡ '‘M M -ῬΡ —lx-—l' M 1
+quare, vel rationis W: -—P——,-—P >< TN? limitem esse unitatem. Nomine-
+
+mus S functionem ipsius x, respondentem areae ΛΡΜ, habebimus pro limite·
+
+PP‘M‘M ds . ΡΡΜΜ ι ds 1
+PP‘ '⁵52’ Εῑᾟχῐῇέἧχῇῑῦὓῡᾶθ
+
+dS- - ydx et S :sydx (ι).
+Ex aequatione curvae igitur quaerendus est valor pro y, hic substituendus m aequa·
+
+tione S :sydx, et ejus Integrale si inveniri queat, Quadraturam spatii quaesiti sup,-
+
+peditabit (ε),
+
+Hac igitur formula J'am tradita , eam exemplis quibusdam illustremus, et ob varios usus
+initium sumamus a lineis secundi ordinis, quae vocantur, sive sectionibus Conicis,
+parabola scilicet, circulo, Ellipsi et Hyper-bola..
+
+S. 2.
+
+De Quadratum Parabolas3
+
+Hujus curvae, cujus usus tam frequens est in Physica Mathematica et in'Mecha*
+nica, Quadraturam primum exhibuit Archimedes, eaque sola est ex sectionibus Co-
+uicis, quae hanc absolute admittat. Philosophum illum hanc Quadraturam ope Metho-
+di Exhaustionis Veterum invenisse supra vidimus. Nunc vero illam exhibebimus se-
+cuudum principia Calculi Differentialis et Integralis.
+
+Praeter hanc autem Parabolam, quae et Appollom'ca appellatur, piures aliae sunt
+species, quae parabolae Superiorum Ordinum vocantur, quarum Quadraturam primun
+
+d‘e·
+
+(ι) De stricta veritae huju· quadrandi termulae et in generede principiis, quibus cna-ulus Dffl‘erentinls
+et turegum nltitur, uti notum est, multi multa disputarunt, lta ut'vnrin sensim prodierint symmm‚.quibm
+hare principia diversis modis exponerentur. stc summi La Crangu’u* Theou-:¹⁶ fhnctr'onum, L'lluimeru'e· nuria
+unstrut, mne, omnibu· cognitae sunt. Confi porro quoe* habet (ΣΙ- S. 5. νο, dtr Este, Verba-deun ονη Ισ
+Bsm'nselen der Differentiaal- m Integraal-Rekam'ng, Biadz. Π en vo'fl-
+
+(α) Cous. La croix„ Tru'tl Elem de Calcul Di’ff: rt Int. No, 7⁶ et 222- Cla ΙῙΜΜΓΙ, curun Mula.
+Vol. ΙΙΙ. pag. ¹⁴² et ¹⁴³· et carnot, Oeuvru Mai-h„ nuic ¹797· psa 201 ct πο). Problema ln hnc sectione
+tamum true-nvi pro coordinatis rccxangussu aequatio veto curvemus pro ordinau- obliquss stelle ox Ἣ.. quem
+consideravimus, deduci potest. Vid. v. g· doct. J. C. Srhrh'er, Vah. mur du Tluart'e dur Lista-uu vau der-'nu-
+Am μου, asgalcid ute dc algemam Theorle der Kromna Lijnm, uu. 1⁸16- 1. Md· 1. floofdst. s. ⁹ en ηοω
+
